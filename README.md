@@ -17,3 +17,4 @@
   * [Material Design 中文版](http://design.1sters.com/)
   * [基于MaterialDesign设计风格的妹纸app的简单实现](https://www.jianshu.com/p/13eee10aacad)
   * [Android 开源框架 EventBus Android](https://www.oschina.net/p/eventbus-android '主要功能是替代Intent、Handler、BroadCast在Fragment、Activity、Service、线程之间传递消息。他的最牛逼优点是开销小，代码简洁，解耦代码。')
+  * [Android-Universal-Image-Loader](https://www.oschina.net/p/android-universal-image-loader '是为了实现异步的网络图片加载，支持多线程异步加载 ')
