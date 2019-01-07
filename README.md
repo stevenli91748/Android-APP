@@ -20,3 +20,4 @@
   * [Android-Universal-Image-Loader](https://www.oschina.net/p/android-universal-image-loader '是为了实现异步的网络图片加载，支持多线程异步加载 ')
 * [Android/Java内存泄露检测框架 LeakCanary](https://www.oschina.net/p/leakcanary '是 Android 和 Java 内存泄露检测框架')
 * [Android 图片加载和缓存库 Glide](https://www.oschina.net/p/glide ' 是一个 Android 上的图片加载和缓存库，其目的是实现平滑的图片列表滚动效果')
+* [Android 图表库 MPAndroidChart](https://www.oschina.net/p/mpandroidchart ' MPAndroidChart 是 Android 系统上一款开源的图表库。目前提供线图和饼图，支持选择、缩放和拖放')
