@@ -22,3 +22,4 @@
 * [Android 图片加载和缓存库 Glide](https://www.oschina.net/p/glide ' 是一个 Android 上的图片加载和缓存库，其目的是实现平滑的图片列表滚动效果')
 * [Android 图表库 MPAndroidChart](https://www.oschina.net/p/mpandroidchart ' MPAndroidChart 是 Android 系统上一款开源的图表库。目前提供线图和饼图，支持选择、缩放和拖放')
 * [Android 开发需要掌握的技术知识点全面总结](https://blog.csdn.net/u014804892/article/details/78131708)
+* [国内Android开发技术大牛推介](https://blog.csdn.net/weelyy/article/details/78816748)
