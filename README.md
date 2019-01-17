@@ -23,3 +23,4 @@
 * [Android 图表库 MPAndroidChart](https://www.oschina.net/p/mpandroidchart ' MPAndroidChart 是 Android 系统上一款开源的图表库。目前提供线图和饼图，支持选择、缩放和拖放')
 * [Android 开发需要掌握的技术知识点全面总结](https://blog.csdn.net/u014804892/article/details/78131708)
 * [国内Android开发技术大牛推介](https://blog.csdn.net/weelyy/article/details/78816748)
+* [Android 相机功能模块相关库](https://cloud.tencent.com/developer/article/1330896)
