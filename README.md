@@ -24,3 +24,4 @@
 * [Android 开发需要掌握的技术知识点全面总结](https://blog.csdn.net/u014804892/article/details/78131708)
 * [国内Android开发技术大牛推介](https://blog.csdn.net/weelyy/article/details/78816748)
 * [Android 相机功能模块相关库](https://cloud.tencent.com/developer/article/1330896)
+* [音视频开发进阶指南](https://www.jianshu.com/p/315227daffa3)
