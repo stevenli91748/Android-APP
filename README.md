@@ -27,3 +27,4 @@
 * [音视频开发进阶指南](https://www.jianshu.com/p/315227daffa3)
 * [Android App架构， 技术选型，技术堆栈，工程架构分层设计，项目重构(!!!)](https://blog.csdn.net/ShareUs/article/details/52665404)
 * [一个互联网app的开发设计（技术选型和架构）](https://blog.csdn.net/brycegao321/article/details/51830525)
+* [史上最全App开发知识分享---如何从零开始成为app开发专家？](https://blog.csdn.net/ddwendy/article/details/52787792)
