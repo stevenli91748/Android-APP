@@ -29,3 +29,4 @@
 * [一个互联网app的开发设计（技术选型和架构）](https://blog.csdn.net/brycegao321/article/details/51830525)
 * [史上最全App开发知识分享---如何从零开始成为app开发专家？](https://blog.csdn.net/ddwendy/article/details/52787792)
 * [目前主流的app开发方式](https://blog.csdn.net/zd1007129657/article/details/83781425)
+* [安卓APP设计规范之1080*1920设计稿对应开发尺寸](https://blog.csdn.net/xiaoyangsavvy/article/details/70255607)
