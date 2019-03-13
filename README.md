@@ -33,3 +33,4 @@
 * [安卓APP设计规范之1080*1920设计稿对应开发尺寸](https://blog.csdn.net/xiaoyangsavvy/article/details/70255607)
 * [移动端IM开发者必读(二)：史上最全移动弱网络优化方法总结](https://blog.csdn.net/netease_im/article/details/83118279)
 * [移动端IM开发者必读(一)：通俗易懂，理解移动网络的“弱”和“慢”](http://yunxin.163.com/blog/52im-1/)
+* [为什么说开发app商城用react native将会是未来主流](http://www.slodon.com/news/index.php/2019/01/15/react/)
