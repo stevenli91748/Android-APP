@@ -12,6 +12,7 @@
 
 
 # 有用的参考
+  * [Android完整知识体系路线(菜鸟-资深-大牛必进之路)](https://blog.csdn.net/whale_kyle/article/details/91400436)
   * [安卓入门到进阶推荐书籍整理](https://pymlovelyq.github.io/2018/09/04/An/)
   * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
   * [大量 Material Design 学习资源](https://blog.csdn.net/susan_123456/article/details/51406547)
