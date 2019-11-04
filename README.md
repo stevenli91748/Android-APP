@@ -10,6 +10,7 @@
 
  * [Android架构师 层次分析 –从顶层到底层 洞察其原理](https://www.bilibili.com/video/av59066641/?spm_id_from=333.788.videocard.16)
  * [UI设计：APP界面交互](https://www.bilibili.com/video/av22705245/?spm_id_from=333.788.videocard.0)
+ * [Android实战--完整电商客户端开发](https://www.bilibili.com/video/av70747689?from=search&seid=2963375673240411410)
 
 
 
