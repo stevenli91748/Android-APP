@@ -15,6 +15,7 @@
 * [Android高级应用开发课程（1-100） 基础篇](https://www.bilibili.com/video/av39735098/?spm_id_from=333.788.videocard.0)
 * [尚硅谷Android视频教程《Android项目_硅谷p2p金融-上》](https://www.bilibili.com/video/av22137478?from=search&seid=15131083738059841392)
 * [【慕课】App后台极速开发](https://www.bilibili.com/video/av5801128?from=search&seid=15205691611360057652)
+* [墨刀：1小时快速学会APP原型设计](https://www.bilibili.com/video/av27240308/?spm_id_from=333.788.videocard.4)
 
 
 # 有用的参考
