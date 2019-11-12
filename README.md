@@ -8,7 +8,8 @@
 
 
 # Android 视频
-* [AndroidStudio使用详解  english](https://www.bilibili.com/video/av9188991/?spm_id_from=333.788.videocard.2)
+ * [黑马28期Android全套视频](https://www.bilibili.com/video/av39532802/?spm_id_from=333.788.videocard.3)
+ * [AndroidStudio使用详解  english](https://www.bilibili.com/video/av9188991/?spm_id_from=333.788.videocard.2)
  * [Android从入门到精通](https://www.bilibili.com/video/av10253907/?spm_id_from=333.788.videocard.0)
  * [Android架构师 层次分析 –从顶层到底层 洞察其原理](https://www.bilibili.com/video/av59066641/?spm_id_from=333.788.videocard.16)
  * [UI设计：APP界面交互](https://www.bilibili.com/video/av22705245/?spm_id_from=333.788.videocard.0)
