@@ -16,7 +16,7 @@
 * [尚硅谷Android视频教程《Android项目_硅谷p2p金融-上》](https://www.bilibili.com/video/av22137478?from=search&seid=15131083738059841392)
 * [【慕课】App后台极速开发](https://www.bilibili.com/video/av5801128?from=search&seid=15205691611360057652)
 * [墨刀：1小时快速学会APP原型设计](https://www.bilibili.com/video/av27240308/?spm_id_from=333.788.videocard.4)
-
+* [Axure 高保真原型：移动客户端设计](https://www.bilibili.com/video/av61394269/?spm_id_from=333.788.videocard.4)
 
 # 有用的参考
   * [Android完整知识体系路线(菜鸟-资深-大牛必进之路)](https://blog.csdn.net/whale_kyle/article/details/91400436)
