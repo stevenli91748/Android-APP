@@ -5,9 +5,26 @@
 [Andriod Studio工具](https://github.com/stevenli91748/Android-APP/blob/master/android%20studio/README.md)|软件框架搭建|
 ---|---|
 
+# Android 源码分析
+
 # Android 核心技术
 
+Android基础知识|用户界面|数据存储|消息机制与异步任务|事件机制|动画|
+---|---|---|---|---|---|
+
+四大组件之Service|四大组件之BroadcastReceiver|四大应用组件之Activity|四大组件之ContentProvider|
+---|---|---|---|
+
+图像处理|碎片|
+---|---|
+
+
+
 # Android 高级开发
+
+自定义控件|JNI/NDK|Android与H5互调|第三方框架源码分析|多渠道打包|
+---|---|---|---|---|
+
 
 # Android 前沿技术
 
