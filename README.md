@@ -41,8 +41,10 @@ OpenDanmaku弹幕|[TabLayout&ViewPager](https://github.com/stevenli91748/Android
 ---|---|
 
 
+# 项目实战
 
-
+* [尚硅谷】Android视频《硅谷商城[新]》](https://www.bilibili.com/video/av22716503?from=search&seid=8198288086289453569)
+* [尚硅谷Android视频教程《Android项目_硅谷p2p金融-上》](https://www.bilibili.com/video/av22137478?from=search&seid=15131083738059841392)
 
 # Android 视频
  * [Android精彩编程200例（全彩版）](https://www.bilibili.com/video/av29765354?p=4)
@@ -53,7 +55,7 @@ OpenDanmaku弹幕|[TabLayout&ViewPager](https://github.com/stevenli91748/Android
  * [UI设计：APP界面交互](https://www.bilibili.com/video/av22705245/?spm_id_from=333.788.videocard.0)
  * [Android实战--完整电商客户端开发](https://www.bilibili.com/video/av70747689?from=search&seid=2963375673240411410)
 * [Android高级应用开发课程（1-100） 基础篇](https://www.bilibili.com/video/av39735098/?spm_id_from=333.788.videocard.0)
-* [尚硅谷Android视频教程《Android项目_硅谷p2p金融-上》](https://www.bilibili.com/video/av22137478?from=search&seid=15131083738059841392)
+
 * [【慕课】App后台极速开发](https://www.bilibili.com/video/av5801128?from=search&seid=15205691611360057652)
 * [墨刀：1小时快速学会APP原型设计](https://www.bilibili.com/video/av27240308/?spm_id_from=333.788.videocard.4)
 * [Axure 高保真原型：移动客户端设计](https://www.bilibili.com/video/av61394269/?spm_id_from=333.788.videocard.4)
