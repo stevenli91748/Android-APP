@@ -1,7 +1,27 @@
 # [Android-APP 面试](https://github.com/stevenli91748/Android-APP/blob/master/interview.md)
 
-[Andriod Studio工具](https://github.com/stevenli91748/Android-APP/blob/master/android%20studio/README.md)|
----|
+# Android 开发环境
+
+[Andriod Studio工具](https://github.com/stevenli91748/Android-APP/blob/master/android%20studio/README.md)|软件框架搭建|
+---|---|
+
+# Android 核心技术
+
+# Android 高级开发
+
+# Android 前沿技术
+
+OKHttp|JSON解析|xUtils3|Afinal|Volley|Butterknife|
+---|---|---|---|---|---|
+
+EventBus|ImageLoader|Picasso|RecyclerView|Glide|Fresco|
+---|---|---|---|---|---|
+
+Pulltorefresh|UniversalVideoView|JieCaoVideoPlayer|Banner|CountdownView秒杀|
+---|---|---|---|---|
+
+OpenDanmaku弹幕|TabLayout&ViewPager|
+---|---|
 
 
 
