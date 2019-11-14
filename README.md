@@ -34,7 +34,7 @@ Android基础知识|用户界面|数据存储|消息机制与异步任务|事件
 EventBus|ImageLoader|Picasso|[RecyclerView](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/RecyclerView/README.md)|Glide|[Fresco](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Fresco/README.md)|
 ---|---|---|---|---|---|
 
-[Pulltorefresh](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Pulltorefresh/README.md)|UniversalVideoView|JieCaoVideoPlayer|Banner|CountdownView秒杀|
+[Pulltorefresh](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Pulltorefresh/README.md)|UniversalVideoView|JieCaoVideoPlayer|Banner|[CountdownView秒杀](https://www.bilibili.com/video/av22725587?from=search&seid=8198288086289453569)|
 ---|---|---|---|---|
 
 OpenDanmaku弹幕|[TabLayout&ViewPager](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/TabLayout%20%26%20ViewPager/README.md)|
@@ -46,7 +46,7 @@ OpenDanmaku弹幕|[TabLayout&ViewPager](https://github.com/stevenli91748/Android
 * [尚硅谷】Android视频《硅谷商城[新]》](https://www.bilibili.com/video/av22716503?from=search&seid=8198288086289453569)
 * [尚硅谷Android视频教程《Android项目_硅谷p2p金融-上》](https://www.bilibili.com/video/av22137478?from=search&seid=15131083738059841392)
 * [尚硅谷Android视频教程《Android项目_硅谷p2p金融-下》](https://www.bilibili.com/video/av22715513?from=search&seid=8198288086289453569)
-* [【尚硅谷】Android视频教程《手机影音_项目实战》](https://www.bilibili.com/video/av22713077?from=search&seid=8198288086289453569)
+* [【尚硅谷】Android视频教程《手机影音_项目实战》](https://www.bilibili.com/video/av37584711?from=search&seid=8198288086289453569)
 
 
 
