@@ -9,7 +9,7 @@
 
 # Android 核心技术
 
-Android基础知识|用户界面|数据存储|消息机制与异步任务|[事件机制](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/事件机制/README.md)|动画|图像处理|碎片|
+Android基础知识|用户界面|数据存储|消息机制与异步任务|事件机制|动画|图像处理|碎片|
 ---|---|---|---|---|---|---|---|
 
 四大组件之Service|四大组件之BroadcastReceiver|四大应用组件之Activity|四大组件之ContentProvider|
@@ -31,7 +31,7 @@ Android基础知识|用户界面|数据存储|消息机制与异步任务|[事�
 [OKHttp](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/OKHttp/README.md)|[JSON解析](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/JSON解析/README.md)|[xUtils3](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/xUtils3/README.md)|[Afinal](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Afinal/README.md)|[Volley](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Volley/README.md)|[Butterknife](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/ButterKnife/README.md)|
 ---|---|---|---|---|---|
 
-EventBus|[ImageLoader](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/ImageLoader/README.md)|Picasso|[RecyclerView](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/RecyclerView/README.md)|[Glide](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Glide/README.md)|[Fresco](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Fresco/README.md)|
+[EventBus](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/EventBus/README.md)|[ImageLoader](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/ImageLoader/README.md)|Picasso|[RecyclerView](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/RecyclerView/README.md)|[Glide](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Glide/README.md)|[Fresco](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Fresco/README.md)|
 ---|---|---|---|---|---|
 
 [Pulltorefresh](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Pulltorefresh/README.md)|[UniversalVideoView](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/UniversalVideoView/README.md)|JieCaoVideoPlayer|[Banner](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Banner/README.md)|[CountdownView秒杀](https://www.bilibili.com/video/av22725587?from=search&seid=8198288086289453569)|
