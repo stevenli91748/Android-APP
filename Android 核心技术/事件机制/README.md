@@ -3,4 +3,4 @@
 
 
 # 视频
-* [尚硅谷】Android视频教程《EventBus》](https://www.bilibili.com/video/av22724573?from=search&seid=1559596875857997321)
+* [Android核心技术之事件机制](https://www.bilibili.com/video/av62634662?from=search&seid=983540596349091661)
