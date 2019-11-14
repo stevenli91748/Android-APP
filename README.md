@@ -28,10 +28,10 @@ Android基础知识|用户界面|数据存储|消息机制与异步任务|事件
 
 # Android 前沿技术
 
-[OKHttp](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/OKHttp/README.md)|[JSON解析](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/JSON解析/README.md)|xUtils3|[Afinal](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Afinal/README.md)|Volley|[Butterknife](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/ButterKnife/README.md)|
+[OKHttp](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/OKHttp/README.md)|[JSON解析](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/JSON解析/README.md)|xUtils3|[Afinal](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Afinal/README.md)|[Volley](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Volley/README.md)|[Butterknife](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/ButterKnife/README.md)|
 ---|---|---|---|---|---|
 
-EventBus|[ImageLoader](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/ImageLoader/README.md)|Picasso|[RecyclerView](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/RecyclerView/README.md)|Glide|[Fresco](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Fresco/README.md)|
+EventBus|[ImageLoader](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/ImageLoader/README.md)|Picasso|[RecyclerView](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/RecyclerView/README.md)|[Glide](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Glide/README.md)|[Fresco](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Fresco/README.md)|
 ---|---|---|---|---|---|
 
 [Pulltorefresh](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/Pulltorefresh/README.md)|[UniversalVideoView](https://github.com/stevenli91748/Android-APP/blob/master/Android%20前沿技术/UniversalVideoView/README.md)|JieCaoVideoPlayer|Banner|[CountdownView秒杀](https://www.bilibili.com/video/av22725587?from=search&seid=8198288086289453569)|
