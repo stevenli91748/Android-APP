@@ -9,7 +9,7 @@
 
 # Android 核心技术
 
-Android基础知识|用户界面|数据存储|[消息机制与异步任务](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/消息机制与异步任务/README.md)|事件机制|动画|图像处理|碎片|
+[Android基础知识](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/Android基础知识/README.md)|用户界面|数据存储|[消息机制与异步任务](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/消息机制与异步任务/README.md)|事件机制|动画|图像处理|碎片|
 ---|---|---|---|---|---|---|---|
 
 四大组件之Service|四大组件之BroadcastReceiver|四大应用组件之Activity|四大组件之ContentProvider|
