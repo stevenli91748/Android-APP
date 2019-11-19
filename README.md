@@ -60,7 +60,7 @@
  * [UI设计：APP界面交互](https://www.bilibili.com/video/av22705245/?spm_id_from=333.788.videocard.0)
  * [Android实战--完整电商客户端开发](https://www.bilibili.com/video/av70747689?from=search&seid=2963375673240411410)
 * [Android高级应用开发课程（1-100） 基础篇](https://www.bilibili.com/video/av39735098/?spm_id_from=333.788.videocard.0)
-
+* [尚硅谷Android视频教程《硅谷新闻_项目实战](https://www.bilibili.com/video/av37322947?from=search&seid=10550336197411701893)
 
 * [【慕课】App后台极速开发](https://www.bilibili.com/video/av5801128?from=search&seid=15205691611360057652)
 * [墨刀：1小时快速学会APP原型设计](https://www.bilibili.com/video/av27240308/?spm_id_from=333.788.videocard.4)
