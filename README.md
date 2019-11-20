@@ -48,7 +48,7 @@
 * [尚硅谷Android视频教程《Android项目_硅谷p2p金融-下》](https://www.bilibili.com/video/av22715513?from=search&seid=8198288086289453569)
 * [【尚硅谷】Android视频教程《手机影音_项目实战》](https://www.bilibili.com/video/av37584711?from=search&seid=8198288086289453569)
 * [【尚硅谷】Android视频教程《硅谷社交_项目实战》](https://www.bilibili.com/video/av22717764?from=search&seid=15567584057016235918)
-
+* [尚硅谷_硅谷商城项目实战](https://www.bilibili.com/video/av17438849?p=3)
 
 
 # Android 视频
