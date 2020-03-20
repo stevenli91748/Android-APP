@@ -42,7 +42,7 @@
 
 
 # 项目实战
-
+* [Choosing the best mobile app framework](https://www.youtube.com/watch?v=4m7msadL5iA)
 * [尚硅谷】Android视频《硅谷商城[新]》](https://www.bilibili.com/video/av22716503?from=search&seid=8198288086289453569)
 * [尚硅谷Android视频教程《Android项目_硅谷p2p金融-上》](https://www.bilibili.com/video/av22137478?from=search&seid=15131083738059841392)
 * [尚硅谷Android视频教程《Android项目_硅谷p2p金融-下》](https://www.bilibili.com/video/av22715513?from=search&seid=8198288086289453569)
