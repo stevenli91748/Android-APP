@@ -2,6 +2,27 @@
 
 # Android 开发环境
 
+* [APP的开发途径](https://www.youtube.com/watch?v=4m7msadL5iA)
+  * 原生开发---使用Android or IOS 的原生资源
+    * Android 
+    * IOS
+  * Progressive Web Apps(PWA)开发
+    * Blazor
+    * Native Script
+    * AngularJS
+    * React
+    * Ionic
+  * CrossPlatform Native开发
+    * microsoft
+      * Xamarin
+    * facebook
+      * React Native
+    * google
+      * Flutter
+    * Kotlin Native  
+    
+
+
 [Andriod Studio工具](https://github.com/stevenli91748/Android-APP/blob/master/android%20studio/README.md)|[软件框架搭建](https://github.com/stevenli91748/Android-APP/blob/master/软件框架搭建/README.md)|[choose the best mobile framework ](https://www.youtube.com/watch?v=4m7msadL5iA)|
 ---|---|---|
 
