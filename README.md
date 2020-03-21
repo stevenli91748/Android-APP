@@ -3,16 +3,16 @@
 # Android 开发环境
 
 * [APP的开发途径](https://www.youtube.com/watch?v=4m7msadL5iA)
-  * 原生开发---使用Android or IOS 的原生资源
+  * 原生开发途径---使用Android or IOS 的原生资源
     * Android 
     * IOS
-  * Progressive Web Apps(PWA)开发
+  * Progressive Web Apps(PWA)开发途径
     * Blazor
     * Native Script
     * AngularJS
     * React
     * Ionic
-  * CrossPlatform Native开发
+  * CrossPlatform Native开发途径
     * microsoft
       * Xamarin
     * facebook
