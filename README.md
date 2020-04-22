@@ -76,6 +76,7 @@
 
 
 # Android 视频
+ * [手机服务器微架构设计与实现](https://www.imooc.com/learn/676)
  * [Android精彩编程200例（全彩版）](https://www.bilibili.com/video/av29765354?p=4)
  * [黑马28期Android全套视频](https://www.bilibili.com/video/av39532802/?spm_id_from=333.788.videocard.3)
  * [AndroidStudio使用详解  english](https://www.bilibili.com/video/av9188991/?spm_id_from=333.788.videocard.2)
