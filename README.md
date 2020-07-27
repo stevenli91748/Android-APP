@@ -94,6 +94,7 @@
 * [Axure 高保真原型：移动客户端设计](https://www.bilibili.com/video/av61394269/?spm_id_from=333.788.videocard.4)
 
 # 有用的参考
+  * [7个最佳的Android模拟器](https://www.jianshu.com/p/e3c9b2999eef)
   * [精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
   * [Android完整知识体系路线(菜鸟-资深-大牛必进之路)](https://blog.csdn.net/whale_kyle/article/details/91400436)
   * [安卓入门到进阶推荐书籍整理](https://pymlovelyq.github.io/2018/09/04/An/)
