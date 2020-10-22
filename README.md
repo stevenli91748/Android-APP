@@ -30,7 +30,8 @@
 [Andriod Studio工具](https://github.com/stevenli91748/Android-APP/blob/master/android%20studio/README.md)|[软件框架搭建](https://github.com/stevenli91748/Android-APP/blob/master/软件框架搭建/README.md)|[choose the best mobile framework ](https://www.youtube.com/watch?v=4m7msadL5iA)|
 ---|---|---|
 
-
+[跨平台开发工具框架演变历史](https://www.zhihu.com/question/295107584)|
+---|
 
 
 # Android 源码分析
