@@ -5,6 +5,9 @@
 [flutter](https://github.com/stevenli91748/Android-APP/blob/master/flutter/README.md)|
 ---|
 
+[解析 Android 架构设计原则](https://www.kancloud.cn/digest/architecting-android-the-evolution#/catalog)|
+---|
+
 [android通过web与后台数据库交互](https://juejin.im/post/6844903966367547405)|[后端spring boot+前端Android交互+mysql增删查改](https://juejin.im/post/6844904005445894152)|
 ---|---|
 
