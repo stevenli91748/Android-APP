@@ -14,8 +14,8 @@
 [深入理解Android（卷1）---以情景方式对Android的源代码进行深入分析的书](https://www.kancloud.cn/alex_wsc/android_depp/412844)|[深入理解Android（卷2）---以情景方式对Android的源代码进行深入分析的书](https://www.kancloud.cn/alex_wsc/android-deep2/413029)|
 ---|---|
 
-[深入理解Android（卷3）Wi-Fi、NFC和GPS卷（完整版）](https://www.kancloud.cn/alex_wsc/android-wifi-nfc-gps/413031)|
----|
+[深入理解Android（卷3）Wi-Fi、NFC和GPS卷（完整版）](https://www.kancloud.cn/alex_wsc/android-wifi-nfc-gps/413031)|[Android热门三方库源码面试宝典](https://www.kancloud.cn/alex_wsc/improve/1822069)|
+---|---|
 
 
 
