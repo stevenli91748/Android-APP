@@ -11,8 +11,8 @@
 [Android实战技巧---应用开发中积累的实战经验和技巧](https://www.kancloud.cn/lincyang/android-tip/101064)|[Android 开发规范与应用---从Futurice公司Android开发者中学到的经验。](https://www.kancloud.cn/kancloud/android-standard-app/63289)|
 ---|---|
 
-[深入理解Android Java 虚拟机ART](https://www.kancloud.cn/alex_wsc/android-art/1840467)|
----|
+[深入理解Android Java 虚拟机ART](https://www.kancloud.cn/alex_wsc/android-art/1840467)|[Android产品研发实录](https://www.kancloud.cn/alex_wsc/android_develop/464979)|
+---|----|
 
 [深入理解Android（卷1）---以情景方式对Android的源代码进行深入分析的书](https://www.kancloud.cn/alex_wsc/android_depp/412844)|[深入理解Android（卷2）---以情景方式对Android的源代码进行深入分析的书](https://www.kancloud.cn/alex_wsc/android-deep2/413029)|
 ---|---|
