@@ -19,7 +19,7 @@
 
 
 
-[Android（OpenCV）开发](https://www.kancloud.cn/yanzi1225627/android-opencv/110497)|[Android屏幕适配全攻略(最权威的官方适配指导)](https://www.kancloud.cn/digest/androind/79775)|
+[Android（OpenCV）开发---掌纹识别 人脸识别 火灾检测](https://www.kancloud.cn/yanzi1225627/android-opencv/110497)|[Android屏幕适配全攻略(最权威的官方适配指导)](https://www.kancloud.cn/digest/androind/79775)|
 ---|---|
 
 
