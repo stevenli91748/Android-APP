@@ -26,6 +26,10 @@
 [android通过web与后台数据库交互](https://juejin.im/post/6844903966367547405)|[后端spring boot+前端Android交互+mysql增删查改](https://juejin.im/post/6844904005445894152)|
 ---|---|
 
+[2019初中级Android开发社招面试](https://www.kancloud.cn/alex_wsc/vollery/1818705)|
+---|
+
+
 
 * [APP的开发途径](https://www.youtube.com/watch?v=4m7msadL5iA)
   * 原生开发途径---使用Android or IOS 的原生资源
