@@ -112,7 +112,8 @@
 
 
 # Android 视频
-* [Android互动直播APP开发入门](https://www.imooc.com/learn/923)
+ * [『菜鸟直播』仿映客直播APP开发实战项目](https://www.cniao5.com/course/10121)
+ * [Android互动直播APP开发入门](https://www.imooc.com/learn/923)
  * [Android蓝牙本地操作](https://www.imooc.com/learn/771)
  * [手机服务器微架构设计与实现](https://www.imooc.com/learn/676)
  * [Android精彩编程200例（全彩版）](https://www.bilibili.com/video/av29765354?p=4)
