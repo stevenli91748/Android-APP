@@ -8,7 +8,7 @@
 [Android基础入门教程](https://www.kancloud.cn/kancloud/android-tutorial/87287)|[Android Training官方培训课程](https://developer.android.com/guide)|[解析 Android 架构设计原则](https://www.kancloud.cn/digest/architecting-android-the-evolution#/catalog)|[Android知识点总结](https://www.kancloud.cn/alex_wsc/android#/catalog)|[Android SDK上手指南](https://www.kancloud.cn/kancloud/learn-android-sdk-from-scratch/63291)|
 ---|---|---|---|---|
 
-[Android实战技巧---Android应用开发中积累的实战经验和技巧](https://www.kancloud.cn/lincyang/android-tip/101064)|[Android 开发规范与应用---从Futurice公司Android开发者中学到的经验。](https://www.kancloud.cn/kancloud/android-standard-app/63289)|
+[Android实战技巧---应用开发中积累的实战经验和技巧](https://www.kancloud.cn/lincyang/android-tip/101064)|[Android 开发规范与应用---从Futurice公司Android开发者中学到的经验。](https://www.kancloud.cn/kancloud/android-standard-app/63289)|
 ---|---|
 
 [深入理解Android（卷1）---以情景方式对Android的源代码进行深入分析的书](https://www.kancloud.cn/alex_wsc/android_depp/412844)|[深入理解Android（卷2）---以情景方式对Android的源代码进行深入分析的书](https://www.kancloud.cn/alex_wsc/android-deep2/413029)|
