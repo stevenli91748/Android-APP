@@ -19,8 +19,8 @@
 
 
 
-[Android屏幕适配全攻略(最权威的官方适配指导)](https://www.kancloud.cn/digest/androind/79775)|
----|
+[Android（OpenCV）开发](https://www.kancloud.cn/yanzi1225627/android-opencv/110497)|[Android屏幕适配全攻略(最权威的官方适配指导)](https://www.kancloud.cn/digest/androind/79775)|
+---|---|
 
 
 [android通过web与后台数据库交互](https://juejin.im/post/6844903966367547405)|[后端spring boot+前端Android交互+mysql增删查改](https://juejin.im/post/6844904005445894152)|
