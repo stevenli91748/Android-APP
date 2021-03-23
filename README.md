@@ -5,6 +5,9 @@
 [flutter](https://github.com/stevenli91748/Android-APP/blob/master/flutter/README.md)|
 ---|
 
+[Android Training官方培训课程中文版](https://developer.android.com/guide)|
+---|
+
 [解析 Android 架构设计原则](https://www.kancloud.cn/digest/architecting-android-the-evolution#/catalog)|[Android知识点总结](https://www.kancloud.cn/alex_wsc/android#/catalog)|
 ---|---|
 
