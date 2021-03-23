@@ -11,6 +11,9 @@
 [Android实战技巧---Android应用开发中积累的实战经验和技巧](https://www.kancloud.cn/lincyang/android-tip/101064)|
 ---|
 
+[深入理解Android（卷1）---以情景方式对Android的源代码进行深入分析的书](https://www.kancloud.cn/alex_wsc/android_depp/412844)|
+---|
+
 [Android屏幕适配全攻略(最权威的官方适配指导)](https://www.kancloud.cn/digest/androind/79775)|
 ---|
 
