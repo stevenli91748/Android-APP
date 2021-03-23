@@ -5,8 +5,8 @@
 [flutter](https://github.com/stevenli91748/Android-APP/blob/master/flutter/README.md)|
 ---|
 
-[Android Training官方培训课程中文版](https://developer.android.com/guide)|[解析 Android 架构设计原则](https://www.kancloud.cn/digest/architecting-android-the-evolution#/catalog)|[Android知识点总结](https://www.kancloud.cn/alex_wsc/android#/catalog)|[Android SDK上手指南](https://www.kancloud.cn/kancloud/learn-android-sdk-from-scratch/63291)|
----|---|---|---|
+[Android基础入门教程](https://www.kancloud.cn/kancloud/android-tutorial/87287)|[Android Training官方培训课程中文版](https://developer.android.com/guide)|[解析 Android 架构设计原则](https://www.kancloud.cn/digest/architecting-android-the-evolution#/catalog)|[Android知识点总结](https://www.kancloud.cn/alex_wsc/android#/catalog)|[Android SDK上手指南](https://www.kancloud.cn/kancloud/learn-android-sdk-from-scratch/63291)|
+---|---|---|---|---|
 
 [Android屏幕适配全攻略(最权威的官方适配指导)](https://www.kancloud.cn/digest/androind/79775)|
 ---|
