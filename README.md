@@ -81,7 +81,7 @@
 
 # 模拟器
 
-[安装 Genymotion及其破解版（转）](https://www.jianshu.com/p/7dcd654baa66?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)|[7个最佳的Android模拟器](https://www.jianshu.com/p/e3c9b2999eef)|
+[安装 Genymotion及其破解版（转）](https://www.jianshu.com/p/7dcd654baa66?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)|[7个最佳的Android模拟器](https://segmentfault.com/a/1190000003775407)|
 ---|---|
 
 
