@@ -2,6 +2,9 @@
 
 # Android 开发环境
 
+[App开发新手入门攻略](https://blog.csdn.net/weixin_41213648/article/details/88555237)|[一个优秀的Android应用从建项目开始---创建项目的一些规范](https://www.jianshu.com/p/d9e4ddd1c530)|
+---|---|
+
 [flutter](https://github.com/stevenli91748/Android-APP/blob/master/flutter/README.md)|
 ---|
 
