@@ -10,7 +10,7 @@
 [flutter](https://github.com/stevenli91748/Android-APP/blob/master/flutter/README.md)|[Android开发人员不得不收集的工具类集合 ](https://github.com/Tamsiree/RxTool)|[GitHub上最火的Android开源项目](https://github.com/open-android/Android)|
 ---|---|---|
 
-[Android MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)|
+[Android MaterialDrawer---the flexible, easy to use, all in one drawer library for your Android project](https://github.com/mikepenz/MaterialDrawer)|
 ---|
 
 
