@@ -45,8 +45,8 @@
 [android通过web与后台数据库交互](https://juejin.im/post/6844903966367547405)|[后端spring boot+前端Android交互+mysql增删查改](https://juejin.im/post/6844904005445894152)|
 ---|---|
 
-[Android 最佳实践 之 单元测试](https://www.kancloud.cn/owenoranba/best-practise-unit-test/109574)|
----|
+[Android 最佳实践 之 单元测试](https://www.kancloud.cn/owenoranba/best-practise-unit-test/109574)|[android WebSocket详细实现步骤](https://www.jianshu.com/p/a69ab1a9b850)|
+---|---|
 
 [2019初中级Android开发社招面试](https://www.kancloud.cn/alex_wsc/vollery/1818705)|
 ---|
