@@ -39,8 +39,8 @@
 [Android（OpenCV）开发---掌纹识别 人脸识别 火灾检测](https://www.kancloud.cn/yanzi1225627/android-opencv/110497)|[Android屏幕适配全攻略(最权威的官方适配指导)](https://www.kancloud.cn/digest/androind/79775)|
 ---|---|
 
-[Android 中流行的开源框架解读](https://www.kancloud.cn/alex_wsc/android_library_framework/451834)|
----|
+[Android 中流行的开源框架解读](https://www.kancloud.cn/alex_wsc/android_library_framework/451834)|[Android设备和PC端通过USB线通信](https://www.jianshu.com/p/20d5a363af5b)|
+---|---|
 
 [android通过web与后台数据库交互](https://juejin.im/post/6844903966367547405)|[后端spring boot+前端Android交互+mysql增删查改](https://juejin.im/post/6844904005445894152)|
 ---|---|
