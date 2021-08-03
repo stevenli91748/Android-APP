@@ -132,6 +132,7 @@
 
 
 # Android 视频
+ * [Android Development for Beginners - Full Course](https://www.youtube.com/watch?v=fis26HvvDII)
  * [『菜鸟直播』仿映客直播APP开发实战项目](https://www.cniao5.com/course/10121)
  * [Android互动直播APP开发入门](https://www.imooc.com/learn/923)
  * [Android蓝牙本地操作](https://www.imooc.com/learn/771)
