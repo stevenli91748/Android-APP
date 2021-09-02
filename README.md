@@ -52,6 +52,11 @@
 [2019初中级Android开发社招面试](https://www.kancloud.cn/alex_wsc/vollery/1818705)|
 ---|
 
+# Flutter项目
+
+[
+Flutter 项目工程化---付费](https://www.kancloud.cn/tiaohuaren/luoxun)|
+---|
 
 
 * [APP的开发途径](https://www.youtube.com/watch?v=4m7msadL5iA)
