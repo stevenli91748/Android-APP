@@ -157,6 +157,7 @@ Flutter 项目工程化---付费](https://www.kancloud.cn/tiaohuaren/luoxun)|
 * [Axure 高保真原型：移动客户端设计](https://www.bilibili.com/video/av61394269/?spm_id_from=333.788.videocard.4)
 
 # 有用的参考
+  * [响应式图像教程](https://www.ruanyifeng.com/blog/2019/06/responsive-images.html)
   * [Termux 入门教程：架设手机 Server 下载文件](https://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html)
   * [WebRTC开发者社区---为开发者提供最新最全的WebRTC资料](https://webrtc.ren/catalog?id=1)
   * [Android中如何切换：开发/线上环境&更改app名](https://www.jianshu.com/p/a66a975bb395)
