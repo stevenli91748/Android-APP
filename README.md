@@ -100,8 +100,8 @@ Flutter 项目工程化---付费](https://www.kancloud.cn/tiaohuaren/luoxun)|
 
 # 模拟器
 
-[安装 Genymotion及其破解版（转）](https://www.jianshu.com/p/7dcd654baa66?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)|[7个最佳的Android模拟器](https://segmentfault.com/a/1190000003775407)|
----|---|
+[安装 Genymotion及其破解版（转）](https://www.jianshu.com/p/7dcd654baa66?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)|[7个最佳的Android模拟器](https://segmentfault.com/a/1190000003775407)|[远程调试 Android 设备网页](https://www.ruanyifeng.com/blog/2019/06/android-remote-debugging.html)|
+---|---|---|
 
 
 
