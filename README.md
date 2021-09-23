@@ -1,6 +1,6 @@
 # [Android-APP 面试](https://github.com/stevenli91748/Android-APP/blob/master/Interview/README.md)
 # [Android程序员职场规划：让你从职场小白一步一步走进一线公司](https://www.jianshu.com/p/a7b29efff48c)
-
+# [APP 是用本机原生还是用混合应用程序开发？](https://sunlightmedia.org/zh-CN/%E5%8E%9F%E7%94%9F%E4%B8%8E%E6%B7%B7%E5%90%88/)
 <a href="https://ibb.co/nrfRR3M"><img src="https://i.ibb.co/wyCYYJh/android-roadmap.png" alt="android-roadmap" border="0"></a>
 
 # 目录
