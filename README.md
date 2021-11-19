@@ -6,7 +6,7 @@
 
 # 在线书籍
 
-* [第一行代码： Android (第2版)](https://weread.qq.com/web/reader/7c532360718ff6317c5255d)
+* [第一行代码： Android (第3版)](https://weread.qq.com/web/reader/73532150723f022f73516a6kc81322c012c81e728d9d180)
 
 ----
 
