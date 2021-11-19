@@ -8,6 +8,12 @@
 
 * [第一行代码： Android (第3版)](https://weread.qq.com/web/reader/73532150723f022f73516a6kc81322c012c81e728d9d180)
 * [Android 进阶解密](https://weread.qq.com/web/reader/4cd3227071dbdd9b4cd3a76)
+* [Android 开发艺术](https://weread.qq.com/web/reader/9d932320716a2b159d9b881)
+* [深入理解Android: Java虚拟机ART](https://weread.qq.com/web/reader/3ee32e60717f5af83ee7b37)
+
+
+
+
 ----
 
 
