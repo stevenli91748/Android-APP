@@ -7,7 +7,7 @@
 # 在线书籍
 
 * [第一行代码： Android (第3版)](https://weread.qq.com/web/reader/73532150723f022f73516a6kc81322c012c81e728d9d180)
-
+* [Android 进阶解密](https://weread.qq.com/web/reader/4cd3227071dbdd9b4cd3a76)
 ----
 
 
