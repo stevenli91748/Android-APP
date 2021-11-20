@@ -80,7 +80,15 @@
   * [Android目录](#Android目录) 
 
 ## Kotlin目录
-
+   * 如何运行Kotlin代码
+     * 第一种方法是使用IntelliJ IDEA
+     * 第二种方法是在线运行Kotlin代码---JetBrains专门提供了一个可以在线运行Kotlin代码的网站，地址是：https://try.kotlinlang.org
+     * 第三种方法是使用Android Studio 
+   * Kotlin语法
+     * 注意，Kotlin每一行代码的结尾是不用加分号的 
+     * 变量---而Kotlin中定义一个变量，只允许在变量前声明两种关键字：val和var 
+       * val（value的简写）---用来声明一个不可变的变量，这种变量在初始赋值之后就再也不能重新赋值，对应Java中的final变量 
+       * var（variable的简写）---用来声明一个可变的变量，这种变量在初始赋值之后仍然可以再被重新赋值，对应Java中的非final变量。
 
 
 ## Android目录
