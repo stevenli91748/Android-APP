@@ -115,6 +115,9 @@
         * 所有以“values”开头的目录都是用来放字符串、样式、颜色等配置的
         * 所有以“layout”开头的目录都是用来放布局文件的。
       * [详解build.gradle文件---项目中有两个build.gradle文件，一个是在最外层目录下的，一个是在app目录下的。这两个文件对构建Android Studio项目都起到了至关重要的作用](https://weread.qq.com/web/reader/73532150723f022f73516a6ke4d32d5015e4da3b7fbb1fa)
+        * 外层目录的 build.gradle文件
+        * 内层APP目录的 build.gradle文件
+      * [日志工具的使用](https://weread.qq.com/web/reader/73532150723f022f73516a6ke4d32d5015e4da3b7fbb1fa)
 
 
 
