@@ -33,6 +33,9 @@
 [Android学习项目入行必备](https://edu.51cto.com/center/course/lesson/index?id=538254)|[老罗的Android之旅（总结）](https://www.kancloud.cn/alex_wsc/androids/401771)|[android源码解析---主要用于解析android framework层源码，干货满满](https://www.kancloud.cn/digest/androidframeworks/127773)|
 ---|---|---|
 
+[Android知识点总结](https://www.kancloud.cn/alex_wsc/android/401651)|
+---|
+
 
 [flutter](https://github.com/stevenli91748/Android-APP/blob/master/flutter/README.md)|[Android开发人员不得不收集的工具类集合 ](https://github.com/Tamsiree/RxTool)|[GitHub上最火的Android开源项目](https://github.com/open-android/Android)|[RxJava-Android-Samples---Learning RxJava for Android by example](https://github.com/kaushikgopal/RxJava-Android-Samples)|
 ---|---|---|---|
@@ -84,13 +87,15 @@
      * 第一种方法是使用IntelliJ IDEA
      * 第二种方法是在线运行Kotlin代码---JetBrains专门提供了一个可以在线运行Kotlin代码的网站，地址是：https://try.kotlinlang.org
      * 第三种方法是使用Android Studio 
+   * Kotlin特色
+     * [拥有出色的类型推导机制 ](https://weread.qq.com/web/reader/73532150723f022f73516a6k16732dc0161679091c5aeb1)
    * Kotlin语法
      * 注意，Kotlin每一行代码的结尾是不用加分号的 
      * 变量---而Kotlin中定义一个变量，只允许在变量前声明两种关键字：val和var 
        * val（value的简写）---用来声明一个不可变的变量，这种变量在初始赋值之后就再也不能重新赋值，对应Java中的final变量 
        * var（variable的简写）---用来声明一个可变的变量，这种变量在初始赋值之后仍然可以再被重新赋值，对应Java中的非final变量。
-
-
+       * 显式地声明变量类型： Val a : int = 10
+     * Kotlin数据类型---   
 ## Android目录
 
 * Android系统架构
