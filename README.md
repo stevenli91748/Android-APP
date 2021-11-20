@@ -10,7 +10,10 @@
 * [Android 进阶解密](https://weread.qq.com/web/reader/4cd3227071dbdd9b4cd3a76)
 * [Android 开发艺术](https://weread.qq.com/web/reader/9d932320716a2b159d9b881)
 * [深入理解Android: Java虚拟机ART](https://weread.qq.com/web/reader/3ee32e60717f5af83ee7b37)
-
+* [Kotlin从入门到进阶实战](https://weread.qq.com/web/reader/d38329d07198d6a1d38f6a5)
+* [kotlin开发教程（全2册）](https://weread.qq.com/web/reader/f4c32d5071ef4cbcf4c7868)
+* [kotlin核心编程---很棒的书](https://weread.qq.com/web/reader/a9f32770718247a7a9f454c)
+* [基于kotlin的SpringBoot微服务实战](https://weread.qq.com/web/reader/484326307210fc26484c017)
 
 
 
