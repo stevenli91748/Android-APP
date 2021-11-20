@@ -99,8 +99,12 @@
     * 丰富的系统控件
     * SQLite数据库---Android系统还自带了这种轻量级、运算速度极快的嵌入式关系型数据库。它不仅支持标准的SQL语法，还可以通过Android封装好的API进行操作，让存储和读取数据变得非常方便
     * 强大的多媒体   
-  * 搭建Android开发环境
-
+  * Android开发环境
+    * 所需要的工具
+      * JDK---JDK是Java语言的软件开发工具包，它包含了Java的运行环境、工具集合、基础类库等内容。
+      * Android SDK---Android SDK是Google提供的Android开发工具包，在开发Android程序时，我们需要通过引入该工具包来使用Android相关的API。
+      * Android Studio  
+    *              
 
 
 
