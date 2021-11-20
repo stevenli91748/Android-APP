@@ -8,6 +8,7 @@
 
 * [第一行代码： Android (第3版)](https://weread.qq.com/web/reader/73532150723f022f73516a6kc81322c012c81e728d9d180)
 * [Android Studio开发实战 从零基础到App上线(第2版)](https://weread.qq.com/web/reader/b9d327f07198d62bb9d1c72?autoscroll=1)
+* [面向物联网的Android应用开发与实践](https://weread.qq.com/web/reader/de932110720439a5de93dd7)
 * [Android 进阶解密](https://weread.qq.com/web/reader/4cd3227071dbdd9b4cd3a76)
 * [Android 开发艺术](https://weread.qq.com/web/reader/9d932320716a2b159d9b881)
 * [深入理解Android: Java虚拟机ART](https://weread.qq.com/web/reader/3ee32e60717f5af83ee7b37)
