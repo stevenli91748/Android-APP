@@ -107,6 +107,13 @@
       * Android SDK---Android SDK是Google提供的Android开发工具包，在开发Android程序时，我们需要通过引入该工具包来使用Android相关的API。
       * Android Studio  
     * [Android Studio源程序项目结构](https://weread.qq.com/web/reader/73532150723f022f73516a6ke4d32d5015e4da3b7fbb1fa)
+      * 项目的外层目录结构
+      * 项目的内层目录结构--APP目录结构 
+      * 项目中的资源
+        * 所有以“drawable”开头的目录都是用来放图片的
+        * 所有以“mipmap”开头的目录都是用来放应用图标的
+        * 所有以“values”开头的目录都是用来放字符串、样式、颜色等配置的
+        * 所有以“layout”开头的目录都是用来放布局文件的。
 
 
 
