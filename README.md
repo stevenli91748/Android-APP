@@ -95,7 +95,26 @@
        * val（value的简写）---用来声明一个不可变的变量，这种变量在初始赋值之后就再也不能重新赋值，对应Java中的final变量 
        * var（variable的简写）---用来声明一个可变的变量，这种变量在初始赋值之后仍然可以再被重新赋值，对应Java中的非final变量。
        * 显式地声明变量类型： Val a : int = 10
-     * Kotlin数据类型---   
+     * Kotlin对象数据类型---Kotlin完全抛弃了Java中的基本数据类型，全部使用了对象数据类型，在Java中int是关键字，而在Kotlin中Int变成了一个类，它拥有自己的方法和继承结构
+     * 函数
+     * 程序的逻辑控制
+       * 顺序语句
+       * 条件语句
+         * [if语句 ](https://weread.qq.com/web/reader/73532150723f022f73516a6k16732dc0161679091c5aeb1)
+           * Kotlin中的if语句相比于Java有一个额外的功能，它是可以有返回值的，返回值就是if语句每一个条件中最后一行代码的返回值 
+         * [When](https://weread.qq.com/web/reader/73532150723f022f73516a6k16732dc0161679091c5aeb1)
+           * Kotlin中的when语句有点类似于Java中的switch语句，但它又远比switch语句强大得多 
+       * 循环语句
+         * While  
+         * For
+         * 区间 
+           * 双端闭区间: 0..10 , ..是创建两端闭区间的关键字，在..的两边指定区间的左右端点就可以创建一个区间了
+           * 左闭右开的区间 : Kotlin中可以使用until关键字来创建一个左闭右开的区间,  0 until 10
+           * step(跳过指定的区间)
+           * downTo(降序)
+       * 面向对象编程          
+
+
 ## Android目录
 
 * Android系统架构
