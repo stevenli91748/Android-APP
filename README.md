@@ -114,10 +114,10 @@
 * Android开发
   * Android应用开发特色
     * 四大组件
-      * Activity---其中Activity是所有Android应用程序的门面，凡是在应用中你看得到的东西，都是放在Activity中的.
-      * Service---而Service就比较低调了，你无法看到它，但它会在后台默默地运行，即使用户退出了应用，Service仍然是可以继续运行的
-      * BroadcastReceiver---BroadcastReceiver允许你的应用接收来自各处的广播消息，比如电话、短信等，当然，你的应用也可以向外发出广播消息
-      * ContentProvider--- ContentProvider则为应用程序之间共享数据提供了可能，比如你想要读取系统通讯录中的联系人，就需要通过ContentProvider来实现
+      * [Activity---其中Activity是所有Android应用程序的门面，凡是在应用中你看得到的东西，都是放在Activity中的](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/四大组件/Activity/README.md)
+      * [Service---而Service就比较低调了，你无法看到它，但它会在后台默默地运行，即使用户退出了应用，Service仍然是可以继续运行的](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/四大组件/Service/README.md)
+      * [BroadcastReceiver---BroadcastReceiver允许你的应用接收来自各处的广播消息，比如电话、短信等，当然，你的应用也可以向外发出广播消息](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/四大组件/Broadcast/README.md)
+      * [ContentProvider--- ContentProvider则为应用程序之间共享数据提供了可能，比如你想要读取系统通讯录中的联系人，就需要通过ContentProvider来实现](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/四大组件/ContentProvider/README.md)
     * 丰富的系统控件
     * SQLite数据库---Android系统还自带了这种轻量级、运算速度极快的嵌入式关系型数据库。它不仅支持标准的SQL语法，还可以通过Android封装好的API进行操作，让存储和读取数据变得非常方便
     * 强大的多媒体   
@@ -192,9 +192,6 @@ Flutter 项目工程化---付费](https://www.kancloud.cn/tiaohuaren/luoxun)|
 
 [Android基础知识](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/Android基础知识/README.md)|[用户界面](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/用户界面/README.md)|[数据存储](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/数据存储/README.md)|[消息机制与异步任务](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/消息机制与异步任务/README.md)|[事件机制](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/事件机制/README.md)|[动画](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/动画/README.md)|[图像处理](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/图像处理/README.md)|[碎片](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/碎片/README.md)|
 ---|---|---|---|---|---|---|---|
-
-[四大组件之Service](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/四大组件/Service/README.md)|[四大组件之BroadcastReceiver](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/四大组件/Broadcast/README.md)|[四大应用组件之Activity](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/四大组件/Activity/README.md)|[四大组件之ContentProvider](https://github.com/stevenli91748/Android-APP/blob/master/Android%20核心技术/四大组件/ContentProvider/README.md)|
----|---|---|---|
 
 
 # 模拟器
