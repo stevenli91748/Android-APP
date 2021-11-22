@@ -206,7 +206,7 @@
       * Intent---Intent是Android程序中各组件之间进行交互的一种重要方式，它不仅可以指明当前组件想要执行的动作，还可以在不同组件之间传递数据。Intent一般可用于启动Activity、启动Service以及发送广播等场景
         * 显式Intent---
         * 隐式Intent---隐式Intent则含蓄了许多，它并不明确指出想要启动哪一个Activity，而是指定了一系列更为抽象的action和category等信息，然后交由系统去分析这个Intent，并帮我们找出合适的Activity去启动  
-
+    * Activity的生命周期                
 
 
 # Flutter项目
