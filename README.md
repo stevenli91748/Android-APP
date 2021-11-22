@@ -137,8 +137,9 @@
              * Map
                * mapOf()函数创建的是一个不可变的集合
                * mutableMapOf()函数创建一个可变的集合 
-             * 集合的函数式API    
-
+             * 集合的函数式API
+               * 学习函数式API的语法结构     
+         * [空指针检查](https://weread.qq.com/web/reader/73532150723f022f73516a6k16732dc0161679091c5aeb1)
 
 
 ## Android目录
