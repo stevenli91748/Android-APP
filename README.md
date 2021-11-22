@@ -126,8 +126,17 @@
          * 数据类与单例类
            * 单例类
            * 数据类
-         * Lambda编程 
-
+         * [Lambda编程 ](https://weread.qq.com/web/reader/73532150723f022f73516a6k16732dc0161679091c5aeb1)
+           * 集合的创建与遍历
+             * list  
+               * listOf()函数创建的是一个不可变的集合。
+               * 那如果我们确实需要创建一个可变的集合呢？也很简单，使用mutableListOf()函数就可以了 
+             * set
+               * setOf()函数创建的是一个不可变的集合
+               * mutableSetOf()函数创建一个可变的集合 
+             * Map
+               * mapOf()函数创建的是一个不可变的集合
+               * mutableMapOf()函数创建一个可变的集合 
 
 
 
