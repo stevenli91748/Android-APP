@@ -195,7 +195,13 @@
       * Logcat中可以很轻松地添加过滤器
       * Logcat中的日志级别控制
       * 日志关键字过滤---如果使用过滤器加日志级别控制还是不能锁定到你想查看的日志内容的话，那么还可以通过关键字进行进一步的过滤
-  *                         
+  * [创建首个主页面 Activity](https://weread.qq.com/web/reader/73532150723f022f73516a6k8f132430178f14e45fce0f7)
+    * 创建Activity
+    * 注册为主Activity
+    * Toast 
+    * 不用再调用findViewById()方法了
+    * 在Activity中使用Menu
+    * 销毁一个Activity
 
 
 
