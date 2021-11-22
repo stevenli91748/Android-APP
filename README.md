@@ -173,6 +173,7 @@
       * JDK---JDK是Java语言的软件开发工具包，它包含了Java的运行环境、工具集合、基础类库等内容。
       * Android SDK---Android SDK是Google提供的Android开发工具包，在开发Android程序时，我们需要通过引入该工具包来使用Android相关的API。
       * Android Studio  
+    * Android模拟器设备
     * [Android Studio源程序项目结构](https://weread.qq.com/web/reader/73532150723f022f73516a6ke4d32d5015e4da3b7fbb1fa)
       * 项目的外层目录结构
       * 项目的内层目录结构--APP目录结构 
