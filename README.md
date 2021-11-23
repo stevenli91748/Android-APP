@@ -242,7 +242,11 @@
     * ConstraintLayout方式---Google官方更加推荐使用ConstraintLayout来开发程序界面 
       * [Android新特性介绍，ConstraintLayout完全解析](https://blog.csdn.net/guolin_blog/article/details/53122387) 
     * 通过编写XML的方式来实现界面开发 
-      * TextView控件                    
+      * TextView控件
+      * EditText控件
+      * ImageView控件
+      * ProgressBar控件
+      * AlertDialog控件                    
 
 
 
