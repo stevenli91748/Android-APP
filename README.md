@@ -233,7 +233,11 @@
       * singleTask启动模式---当Activity的启动模式指定为singleTask，每次启动该Activity时，系统首先会在返回栈中检查是否存在该Activity的实例，如果发现已经存在则直接使用该实例，并把在这个Activity之上的所有其他Activity统统出栈，如果没有发现就会创建一个新的Activity实例
       * singleInstance启动模式---指定为singleInstance模式的Activity会启用一个新的返回栈来管理这个Activity
     * [Activity的最佳实践](https://weread.qq.com/web/reader/73532150723f022f73516a6k8f132430178f14e45fce0f7)
-
+  * UI界面开发
+    * ConstraintLayout---Google官方更加推荐使用ConstraintLayout来开发程序界面 
+      * [Android新特性介绍，ConstraintLayout完全解析](https://blog.csdn.net/guolin_blog/article/details/53122387) 
+    * 通过编写XML的方式来实现界面开发 
+      * TextView控件                    
 
 
 
