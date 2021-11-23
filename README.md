@@ -23,6 +23,11 @@
 
 # 博客
 
+[Google开发官方网站](https://developers.google.cn/learn)|
+---|
+
+
+
 [ 极客教程   Android 教程篇](https://geek-docs.com/android)|[ 极客教程   Flutter教程篇](https://geek-docs.com/flutter)|[ 极客教程   Kotlin教程篇](https://geek-docs.com/kotlin)|
 ---|---|---|
 
@@ -234,7 +239,7 @@
       * singleInstance启动模式---指定为singleInstance模式的Activity会启用一个新的返回栈来管理这个Activity
     * [Activity的最佳实践](https://weread.qq.com/web/reader/73532150723f022f73516a6k8f132430178f14e45fce0f7)
   * UI界面开发
-    * ConstraintLayout---Google官方更加推荐使用ConstraintLayout来开发程序界面 
+    * ConstraintLayout方式---Google官方更加推荐使用ConstraintLayout来开发程序界面 
       * [Android新特性介绍，ConstraintLayout完全解析](https://blog.csdn.net/guolin_blog/article/details/53122387) 
     * 通过编写XML的方式来实现界面开发 
       * TextView控件                    
