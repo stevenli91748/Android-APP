@@ -211,7 +211,7 @@
       * 暂停状态
       * 停止状态
       * 销毁状态
-      * Activity的生存期
+      * [Activity的生存期](https://weread.qq.com/web/reader/73532150723f022f73516a6k8f132430178f14e45fce0f7)
         * Activity类中定义了7个回调方法，覆盖了Activity生命周期的每一个环节                  
           * onCreate()。这个方法你已经看到过很多次了，我们在每个Activity中都重写了这个方法，它会在Activity第一次被创建的时候调用。你应该在这个方法中完成Activity的初始化操作，比如加载布局、绑定事件等。
           * onStart()。这个方法在Activity由不可见变为可见的时候调用。
@@ -220,6 +220,19 @@
           * onStop()。这个方法在Activity完全不可见的时候调用。它和onPause()方法的主要区别在于，如果启动的新Activity是一个对话框式的Activity，那么onPause()方法会得到执行，而onStop()方法并不会执行。
           * onDestroy()。这个方法在Activity被销毁之前调用，之后Activity的状态将变为销毁状态。
           * onRestart()。这个方法在Activity由停止状态变为运行状态之前调用，也就是Activity被重新启动了。
+    * [Activity的启动模式---启动模式一共有4种，分别是standard、singleTop、singleTask和singleInstance](https://weread.qq.com/web/reader/73532150723f022f73516a6k8f132430178f14e45fce0f7)                     
+      * standard启动模式
+      * singleTop启动模式
+      * singleTask启动模式
+      * singleInstance启动模式
+
+
+
+
+
+
+
+
 
 # Flutter项目
 
