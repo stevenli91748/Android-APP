@@ -97,6 +97,13 @@
        * 显式地声明变量类型： Val a : int = 10
      * Kotlin对象数据类型---Kotlin完全抛弃了Java中的基本数据类型，全部使用了对象数据类型，在Java中int是关键字，而在Kotlin中Int变成了一个类，它拥有自己的方法和继承结构
      * 函数
+       * [Kotlin标准函数和静态方法 ](https://weread.qq.com/web/reader/73532150723f022f73516a6k8f132430178f14e45fce0f7)
+         * 标准函数---Kotlin的标准函数指的是Standard.kt文件中定义的函数，任何Kotlin代码都可以自由地调用所有的标准函数
+         * 静态方法---静态方法在某些编程语言里面又叫作类方法，指的就是那种不需要创建实例就能调用的方法,因而静态方法非常适合用于编写一些工具类的功能，因为工具类通常没有创建实例的必要，基本是全局通用的, Kotlin却极度弱化了静态方法这个概念,那么Kotlin为什么要这样设计呢？因为Kotlin提供了比静态方法更好用的语法特性，并且我们在上一节中已经学习过了，那就是单例类
+           * 顶层方法
+           * @JvmStatic注解
+           * 单例类
+           * companion object  
      * 程序的逻辑控制
        * 顺序语句
        * 条件语句
@@ -221,11 +228,11 @@
           * onDestroy()。这个方法在Activity被销毁之前调用，之后Activity的状态将变为销毁状态。
           * onRestart()。这个方法在Activity由停止状态变为运行状态之前调用，也就是Activity被重新启动了。
     * [Activity的启动模式---启动模式一共有4种，分别是standard、singleTop、singleTask和singleInstance](https://weread.qq.com/web/reader/73532150723f022f73516a6k8f132430178f14e45fce0f7)                     
-      * standard启动模式
-      * singleTop启动模式
-      * singleTask启动模式
-      * singleInstance启动模式
-
+      * standard启动模式---在standard模式下，每当启动一个新的Activity，它就会在返回栈中入栈，并处于栈顶的位置。对于使用standard模式的Activity，系统不会在乎这个Activity是否已经在返回栈中存在，每次启动都会创建一个该Activity的新实例
+      * singleTop启动模式---当Activity的启动模式指定为singleTop，在启动Activity时如果发现返回栈的栈顶已经是该Activity，则认为可以直接使用它，不会再创建新的Activity实例
+      * singleTask启动模式---当Activity的启动模式指定为singleTask，每次启动该Activity时，系统首先会在返回栈中检查是否存在该Activity的实例，如果发现已经存在则直接使用该实例，并把在这个Activity之上的所有其他Activity统统出栈，如果没有发现就会创建一个新的Activity实例
+      * singleInstance启动模式---指定为singleInstance模式的Activity会启用一个新的返回栈来管理这个Activity
+    * [Activity的最佳实践](https://weread.qq.com/web/reader/73532150723f022f73516a6k8f132430178f14e45fce0f7)
 
 
 
