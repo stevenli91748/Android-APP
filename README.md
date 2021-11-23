@@ -206,8 +206,20 @@
       * Intent---Intent是Android程序中各组件之间进行交互的一种重要方式，它不仅可以指明当前组件想要执行的动作，还可以在不同组件之间传递数据。Intent一般可用于启动Activity、启动Service以及发送广播等场景
         * 显式Intent---
         * 隐式Intent---隐式Intent则含蓄了许多，它并不明确指出想要启动哪一个Activity，而是指定了一系列更为抽象的action和category等信息，然后交由系统去分析这个Intent，并帮我们找出合适的Activity去启动  
-    * Activity的生命周期                
-
+    * Activity的生命周期---每个Activity在其生命周期中最多可能会有4种状态
+      * 运行状态
+      * 暂停状态
+      * 停止状态
+      * 销毁状态
+      * Activity的生存期
+        * Activity类中定义了7个回调方法，覆盖了Activity生命周期的每一个环节                  
+          * onCreate()。这个方法你已经看到过很多次了，我们在每个Activity中都重写了这个方法，它会在Activity第一次被创建的时候调用。你应该在这个方法中完成Activity的初始化操作，比如加载布局、绑定事件等。
+          * onStart()。这个方法在Activity由不可见变为可见的时候调用。
+          * onResume()。这个方法在Activity准备好和用户进行交互的时候调用。此时的Activity一定位于返回栈的栈顶，并且处于运行状态。
+          * onPause()。这个方法在系统准备去启动或者恢复另一个Activity的时候调用。我们通常会在这个方法中将一些消耗CPU的资源释放掉，以及保存一些关键数据，但这个方法的执行速度一定要快，不然会影响到新的栈顶Activity的使用。
+          * onStop()。这个方法在Activity完全不可见的时候调用。它和onPause()方法的主要区别在于，如果启动的新Activity是一个对话框式的Activity，那么onPause()方法会得到执行，而onStop()方法并不会执行。
+          * onDestroy()。这个方法在Activity被销毁之前调用，之后Activity的状态将变为销毁状态。
+          * onRestart()。这个方法在Activity由停止状态变为运行状态之前调用，也就是Activity被重新启动了。
 
 # Flutter项目
 
