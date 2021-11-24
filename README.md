@@ -246,7 +246,8 @@
       * EditText控件
       * ImageView控件
       * ProgressBar控件
-      * AlertDialog控件  
+      * AlertDialog控件
+      * ListView控件  
       * Button控件
       * [创建自定义控件](https://weread.qq.com/web/reader/73532150723f022f73516a6kc9f326d018c9f0f895fb5e4)
     * 3种基本布局            
