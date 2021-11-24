@@ -246,8 +246,13 @@
       * EditText控件
       * ImageView控件
       * ProgressBar控件
-      * AlertDialog控件                    
-
+      * AlertDialog控件  
+      * Button控件
+      * [创建自定义控件](https://weread.qq.com/web/reader/73532150723f022f73516a6kc9f326d018c9f0f895fb5e4)
+    * 3种基本布局            
+      * LinearLayout又称作线性布局---LinearLayout又称作线性布局，是一种非常常用的布局。正如它的名字所描述的一样，这个布局会将它所包含的控件在线性方向上依次排列
+      * RelativeLayout又称作相对布局--- RelativeLayout显得更加随意，它可以通过相对定位的方式让控件出现在布局的任何位置
+      * FrameLayout又称作帧布局---这种布局没有丰富的定位方式，所有的控件都会默认摆放在布局的左上角
 
 
 
