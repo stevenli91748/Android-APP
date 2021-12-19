@@ -26,7 +26,8 @@
 [Google开发官方网站](https://developers.google.cn/learn)|[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|
 ---|---|
 
-
+[Android SDK上手指南](https://www.kancloud.cn/kancloud/learn-android-sdk-from-scratch)|
+---|
 
 [ 极客教程   Android 教程篇](https://geek-docs.com/android)|[ 极客教程   Flutter教程篇](https://geek-docs.com/flutter)|[ 极客教程   Kotlin教程篇](https://geek-docs.com/kotlin)|
 ---|---|---|
