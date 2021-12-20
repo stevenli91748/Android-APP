@@ -29,6 +29,9 @@
 [Android SDK上手指南](https://www.kancloud.cn/kancloud/learn-android-sdk-from-scratch)|[Android屏幕适配全攻略(最权威的官方适配指导)](https://www.kancloud.cn/digest/androind)|[Android性能专项测试](https://www.kancloud.cn/digest/itfootballprefermanc)|[Android NDK开发学习](https://www.kancloud.cn/digest/zlndk)|
 ---|---|---|---|
 
+[Android 例子高仿篇](https://www.kancloud.cn/digest/hankkin-imitation)|
+---|
+
 [ 极客教程   Android 教程篇](https://geek-docs.com/android)|[ 极客教程   Flutter教程篇](https://geek-docs.com/flutter)|[ 极客教程   Kotlin教程篇](https://geek-docs.com/kotlin)|
 ---|---|---|
 
