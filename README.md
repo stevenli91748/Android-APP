@@ -89,6 +89,7 @@
 # 项目实战
 
 * [【边做项目边学Android---手机卫士】](https://www.kancloud.cn/digest/android-mobilesafe)
+* [安卓实战音心APP开发](https://www.kancloud.cn/digest/yuan-music)
 
 
 # 目录
