@@ -90,7 +90,11 @@
 
 * [【边做项目边学Android---手机卫士】](https://www.kancloud.cn/digest/android-mobilesafe)
 * [安卓实战音心APP开发](https://www.kancloud.cn/digest/yuan-music)
-
+* GSYGithubApp项目系列的优势：目前已经拥有Flutter、Weex、ReactNative、Kotlin四个版本, 超完整的Android 项目，功能丰富，项目框架内技术涉及面广，完成度高。开源Github客户端App
+  * [GSYGithubApp--Kotlin版](https://github.com/CarGuo/GSYGithubAppKotlin)
+  * [GSYGithubApp--Weex版](https://github.com/CarGuo/GSYGithubAppWeex )
+  * [GSYGithubApp--ReactNative版]( https://github.com/CarGuo/GSYGithubApp )
+  * [GSYGithubApp--Flutter版 ]( https://github.com/CarGuo/GSYGithubAppFlutter )
 
 # 目录
   * [Kotlin目录](#Kotlin目录)
